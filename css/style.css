@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(206, 199, 190);
+}
+
+.nav-mg {
+    background-color: rgb(206, 199, 190) !important;
+    padding: 10px;
+}
+
+.nav-mg-1 {
+    background-color: cornflowerblue;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.bar-top {
+    background-color: beige;
+    width: 100%;
+    height: 20px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.uthemes-logo {
+    width: 150px;
+}
+
+.color-icon {
+    color: white !important;
+    font-size: small;
+}
+
+.fb {
+    margin-left: 5px;
+}
+
+.avatar {
+    margin-left: 20px;
+}
+
+.search-icon {
+    border: none;
+}
+
+.text-up {
+    margin-left: 20px;
+    font-size: small;
+}
+
+.text-up-2 {
+    margin-right: 20px;
+    font-size: small;
+}
